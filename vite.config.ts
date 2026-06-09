@@ -12,4 +12,9 @@ export default defineConfig({
     // nitro/vite builds from this
     server: { entry: "server" },
   },
+  // Force Nitro on with the Vercel preset so `vite build` emits Vercel's
+  // Build Output API format (.vercel/output) when deploying outside Lovable.
+  // Without this, a self-deploy gets a Vite-only build with no SSR server,
+  // which makes Vercel return 404: NOT_FOUND for every route.
+  nitro: { preset: "vercel" },
 });
