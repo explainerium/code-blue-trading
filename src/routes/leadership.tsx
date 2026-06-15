@@ -24,10 +24,10 @@ const leaders = [
   },
   {
     initials: "MS",
-    name: "Mohammad Shahid",
+    name: "Muhammad shahid",
     title: "Manager – Gulf Region",
     region: "GCC & Gulf",
-    bio: "Mohammad Shahid oversees sales and business development operations across the GCC and Gulf markets. With strong regional market knowledge and a customer-focused approach, he plays a key role in strengthening partnerships, expanding market presence, and delivering exceptional service to clients throughout the Gulf region.",
+    bio: "Muhammad shahid oversees sales and business development operations across the GCC and Gulf markets. With strong regional market knowledge and a customer-focused approach, he plays a key role in strengthening partnerships, expanding market presence, and delivering exceptional service to clients throughout the Gulf region.",
   },
 ];
 

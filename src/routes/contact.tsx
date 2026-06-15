@@ -58,7 +58,7 @@ function ContactPage() {
                 </div>
                 <div>
                   <p className="font-semibold text-foreground">GCC &amp; Gulf Region</p>
-                  <p className="text-muted-foreground">Mohammad Shahid — Manager, Gulf Region</p>
+                  <p className="text-muted-foreground">Muhammad shahid — Manager, Gulf Region</p>
                 </div>
               </div>
             </div>
